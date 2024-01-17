@@ -1,0 +1,3 @@
+[submodule "imageproc"]
+	path = imageproc
+	url = git@github.com:image-rs/imageproc.git
